@@ -50,7 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+*/*.exe
 # Translations
 *.mo
 *.pot
